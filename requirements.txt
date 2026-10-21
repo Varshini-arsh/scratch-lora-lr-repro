@@ -1,0 +1,7 @@
+torch
+transformers
+safetensors
+huggingface_hub
+# tests only (reference implementations, not used by src/)
+peft
+pytest
